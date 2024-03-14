@@ -15,3 +15,4 @@ CREATE TABLE IF NOT EXISTS Regisseur (
      Nachname TEXT NOT NULL,
     Geburtsdatum DATE
 );
+
